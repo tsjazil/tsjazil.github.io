@@ -1,0 +1,69 @@
+:root {
+/*	--text-primary:#08cc8f;
+	#0cc88e */
+	--text-primary:#05CE91;
+	--background: #000000;
+	--text-secondary:#0592CE;
+	--text-ter:#FFFFFF;
+}
+
+html,
+body
+{
+	font-size: 1.1em;
+	line-height: 1.5em;
+	max-width: 45em;
+	margin: auto;
+	padding: 0 2%;
+  	background: var(--background);
+}
+
+h1
+{
+	font-weight: 600;
+	font-size:2.479em;
+  	font-family: 'Noto Sans', sans-serif;
+}
+
+h2
+{
+	font-size:1.5em;
+	font-weight:600;
+	font-family: 'Noto Sans';
+}
+.header-quote
+{
+	color:var(--text-ter);
+	font-family:'Jetbrains Mono';
+	font-size:0.91em;
+}
+
+h1, p
+{
+	color: var(--text-primary);
+}
+a.list{
+		color:var(--text-ter)
+}
+
+h2,li
+{
+	color: var(--text-ter);
+}
+a,span{
+	color:var(--text-secondary);
+	text-decoration:none;
+	font-family:'Jetbrains Mono';
+	font-size:1em;
+	font-weight: 600;
+}
+
+
+
+img
+ {
+	 width:246px;height:246px;
+	max-width: 100%;
+	display: block;
+	margin: .75em auto;
+ }
