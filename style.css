@@ -18,7 +18,7 @@ h1{
   background: #b7bdf8;
   color: #24273A;
   font-size: 35px;
-  font-style:italic;
+  /* font-style:italic; */
   padding: 0 0.5em;
   display: inline-block;
   /* font-size: inherit; */
