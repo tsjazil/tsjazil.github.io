@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 body{
-  background: #1e1e2e;
+  background: #24273A;
   font-size: 20px;
-  color: #cdd6f4;
+  color: #CAD3F5;
   font-family: 'Jetbrains Mono', monospace;
   font-weight: 600;
   align-items: left;
@@ -15,8 +15,8 @@ body{
 }
 
 h1{
-  background: #89b4fa;
-  color: #1e1e2e;
+  background: #b7bdf8;
+  color: #24273A;
   font-size: 35px;
   font-style:italic;
   padding: 0 0.5em;
@@ -43,7 +43,7 @@ h4{
   /* padding:20px; */
   max-width: 1000px;
   font-weight: 500;
-  color:#b4befe;
+  color:#b7bdf8;
 }
 
 .hd{
@@ -57,7 +57,7 @@ h3{
 }
 
 a{
-  color:#f2cdcd;
+  color:#f0c6c6;
 }
 
 .try{
@@ -65,3 +65,18 @@ a{
   max-width: 50ch;
 }
 
+.github:hover{
+  color:#6e738d;
+}
+
+.twitter:hover{
+  color:#8aadf4;
+}
+
+.reddit:hover{
+  color:#ee99a0;
+}
+
+.instagram:hover{
+  color:#f5bde6;
+}
