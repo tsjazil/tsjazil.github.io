@@ -65,7 +65,9 @@ a{
   width: 100%;
   max-width: 50ch;
 }
-
+.email{
+  color:#ed8796;
+}
 .github:hover{
   color:#6e738d;
 }
