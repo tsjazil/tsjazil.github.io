@@ -51,11 +51,7 @@ theme = 'hello-friend-ng'
   logoMark     = ">"
   logoText     = "$ cd /home/tsjazil"
   logoHomeLink = "/"
-  # Set true to remove the logo cursor entirely.
-# [params.portrait]
-#     path     = "./assets/dp.png"
-#     alt      = "Portrait"
-#     maxWidth = "50px"
+
   [params.portrait]
     path     = "/images/dp.png"
     alt      = "Portrait"
