@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Jazil T S</title>
+    <link>http://localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on Jazil T S</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2025 22:34:46 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Begining</title>
+      <link>http://localhost:1313/posts/begin/</link>
+      <pubDate>Mon, 17 Feb 2025 22:34:46 +0530</pubDate>
+      <guid>http://localhost:1313/posts/begin/</guid>
+      <description>&lt;p&gt;Starting my blog marks a new chapter in sharing my journey as a Linux enthusiast, UI designer, and ricer. Over the years, I’ve explored various Linux distributions, customized my desktop environment to perfection, and refined my workflow to be as efficient and aesthetic as possible. This blog will serve as a space to document my experiences, from configuring window managers to crafting sleek UI designs that blend form with function. My goal is to provide insights, tutorials, and personal reflections that might help others in their own Linux journey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

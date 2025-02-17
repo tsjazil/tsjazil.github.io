@@ -1,0 +1,62 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jazil T S'
+theme = 'hello-friend-ng'
+
+[params.footer]
+  # trademark = 2023
+  rss = false 
+  # copyright = true
+  # author = true
+
+  topText = [ "Theme by <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\"> rhazdon</a>" ]
+  bottomText = [
+    "Powered by <a href=\"http://gohugo.io\">Hugo</a> | Made with &#10084; by <a href=\"https://github.com/tsjazil\">Jazil T S</a>"
+  ]
+
+[[params.social]]
+  name = "twitter"
+  url  = "https://twitter.com/tsjazil"
+
+[[params.social]]
+  name = "email"
+  url  = "mailto:tsjazil@gmail.com"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/tsjazil"
+
+[[params.social]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/in/tsjazil"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About Me"
+    url        = "about/"
+
+
+[params.favicon.color]
+  mask = "#1b1c1d"
+  msapplication = "#1b1c1d"
+  theme = "#1b1c1d"
+
+[params.logo]
+  logoMark     = ">"
+  logoText     = "$ cd /home/tsjazil"
+  logoHomeLink = "/"
+  # Set true to remove the logo cursor entirely.
+# [params.portrait]
+#     path     = "./assets/dp.png"
+#     alt      = "Portrait"
+#     maxWidth = "50px"
+  [params.portrait]
+    path     = "/images/dp.png"
+    alt      = "Portrait"
+    maxWidth = "350px"
